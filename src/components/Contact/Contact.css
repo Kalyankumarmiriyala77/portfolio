@@ -100,7 +100,7 @@
 
 }
 
-.social-icons{
+.socials{
 
     display:flex;
 
@@ -110,7 +110,7 @@
 
 }
 
-.social-icons a{
+.socials a{
 
     width:50px;
 
@@ -134,7 +134,7 @@
 
 }
 
-.social-icons a:hover{
+.socials a:hover{
 
     background:#00E6A7;
 
