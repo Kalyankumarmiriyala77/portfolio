@@ -56,6 +56,7 @@ function Hero() {
           <FaGithub />
 
           <FaLinkedin />
+          <FaInstagram />
 
         </div>
 
