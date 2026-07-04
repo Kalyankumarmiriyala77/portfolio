@@ -51,27 +51,15 @@ function Hero() {
 
         </div>
 
-       <div className="socials">
+        <div className="socials">
 
-  <a
-    href="https://github.com/Kalyankumarmiriyala77"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    <FaGithub />
-  </a>
+          <FaGithub />
 
-  <a
-    href="https://www.linkedin.com/in/kalyankumar77"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    <FaLinkedin />
-  </a>
+          <FaLinkedin />
 
- 
+          <FaInstagram />
 
-</div>
+        </div>
 
       </div>
 
