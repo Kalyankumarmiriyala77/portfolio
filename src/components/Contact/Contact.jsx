@@ -59,10 +59,24 @@ const handleSubmit = (e) => {
             </div>
           </div>
 
-          <div className="social-icons">
-            <a href="#"><FaGithub /></a>
-            <a href="#"><FaLinkedin /></a>
-          </div>
+         <div className="socials">
+
+  <a
+    href="https://github.com/Kalyankumarmiriyala77"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    <FaGithub />
+  </a>
+
+  <a
+    href="https://www.linkedin.com/in/kalyankumar77/"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    <FaLinkedin />
+  </a>
+</div>
 
         </div>
 
