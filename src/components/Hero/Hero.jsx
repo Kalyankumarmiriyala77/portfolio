@@ -69,13 +69,7 @@ function Hero() {
     <FaLinkedin />
   </a>
 
-  <a
-    href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    <FaInstagram />
-  </a>
+ 
 
 </div>
 
