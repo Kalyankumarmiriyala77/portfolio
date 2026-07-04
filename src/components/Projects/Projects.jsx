@@ -6,21 +6,21 @@ const projects = [
     tech: "React • Spring Boot • MySQL",
     description:
       "A full-stack car rental application with authentication, bookings, admin dashboard and image upload.",
-    image: "/carsgo.png",
+   image: `${import.meta.env.BASE_URL}carsgo.png`,
   },
   {
     title: "AI Chatbot",
     tech: "React • AI API",
     description:
       "A ChatGPT-inspired chatbot interface with a clean and modern UI.",
-    image: "/chatbot.jpg",
+    image: `${import.meta.env.BASE_URL}chatbot.jpg`,
   },
   {
     title: "employee management system",
     tech: "React • Spring Boot • MySQL",
     description:
       "A comprehensive employee management system with user roles and permissions.",
-    image: "/employee.jpg",
+    image: `${import.meta.env.BASE_URL}employee.jpg`,
   },
 ];
 

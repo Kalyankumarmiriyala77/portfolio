@@ -53,10 +53,12 @@ function About() {
 
         </div>
 
-       <a href="/resume.pdf" download>
-    <button>
-        Download Resume
-    </button>
+<a
+  href={`${import.meta.env.BASE_URL}resume.pdf`}
+  download
+  className="btn2"
+>
+  Download Resume
 </a>
 
       </div>
