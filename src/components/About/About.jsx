@@ -7,7 +7,10 @@ function About() {
       <div className="about-image">
 
         <div className="image-box">
-         <img src="/profile2.png" alt="Profile" />
+        <img
+  src={`${import.meta.env.BASE_URL}profile2.png`}
+  alt="Profile"
+/>
         </div>
 
       </div>

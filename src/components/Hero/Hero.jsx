@@ -65,7 +65,10 @@ function Hero() {
 
         <div className="image-circle">
 
-         <img src="/profile.png" alt="Profile" />
+        <img
+  src={`${import.meta.env.BASE_URL}profile.png`}
+  alt="Profile"
+/>
 
         </div>
 
