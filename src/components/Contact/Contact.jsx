@@ -86,16 +86,18 @@ const handleSubmit = (e) => {
           <input
             type="text"
             placeholder="Your Name"
-          />
+              required/>
 
           <input
             type="email"
             placeholder="Your Email"
+            required
           />
 
           <input
             type="text"
             placeholder="Subject"
+            required
           />
 
           <textarea
